@@ -1,0 +1,2 @@
+# A1c
+- A1c :: Finish mapping some data from your digital data selfie. You can use location to show actual location of communication, or have the map be somewhat abstract, representing platform or receiver, for example. The size of the bubbles should represent some aspect of your data, like amount of use. Consider using color as representing some other aspec of your visual, like dominant mood as related to location. Use TSV or CSV files. Submit work to github. 
